@@ -1,0 +1,14 @@
+Find Your Perfect Jeans
+
+This application will allow users to find the perfect jeans for their size and style
+
+I. Shopper Interface
+- [ ] Shoppers enter the following information:
+    - [ ] Store
+    - [ ] Size
+    - [ ] Length
+    - [ ] Style(skinny, straight, bootcut, wide-leg, flare, etc)
+
+II. User Interface
+- [ ] Users search the data based on the above criteria
+
